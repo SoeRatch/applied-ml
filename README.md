@@ -15,6 +15,10 @@ Each case study is self-contained with a notebook covering data exploration, pre
    - **Goal**: Predict insurance charges for individuals based on demographic and health factors.
    - **Techniques**: Exploratory analysis, categorical encoding, **linear regression** and evaluation via **MAE/MSE/R²**.
 
+3. **[Credit Card Fraud Prediction](case_studies/03_credit_card_fraud/)**
+   - **Goal**: Detect fraudulent credit card transactions in an imbalanced dataset.  
+   - **Techniques**: Exploratory analysis, class imbalance handling, **Logistic Regression** and **K-Nearest Neighbors (KNN)**.
+
 *(More case studies will be added over time.)*
 
 ---

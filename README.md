@@ -18,6 +18,11 @@ Each case study is self-contained with a notebook covering data exploration, pre
 3. **[Credit Card Fraud Prediction](case_studies/03_credit_card_fraud/)**
    - **Goal**: Detect fraudulent credit card transactions in an imbalanced dataset.  
    - **Techniques**: Exploratory analysis, class imbalance handling, **Logistic Regression** and **K-Nearest Neighbors (KNN)**.
+   
+4. **[Insurance Claim Prediction (Porto Seguro Safe Driver)](case_studies/04_insurance_claim_prediction/)**  
+   - **Goal**: Predict the probability that a driver will file an insurance claim in the future.  
+   - **Techniques**: Extensive EDA on anonymized features, handling missing values, bivariate analysis for rare-but-important variables, encoding categorical features, feature selection, and **Logistic Regression / Random Forest** with evaluation via **ROC-AUC** and **F1-score** on imbalanced data.
+
 
 *(More case studies will be added over time.)*
 

@@ -23,6 +23,11 @@ Each case study is self-contained with a notebook covering data exploration, pre
    - **Goal**: Predict the probability that a driver will file an insurance claim in the future.  
    - **Techniques**: Extensive EDA on anonymized features, handling missing values, bivariate analysis for rare-but-important variables, encoding categorical features, feature selection, and **Logistic Regression / Random Forest** with evaluation via **ROC-AUC** and **F1-score** on imbalanced data.
 
+5. **[Loan Approval Prediction](05_loan_approval_prediction/)**  
+   - **Goal**: Predict loan approval based on applicant attributes such as income, loan amount, credit history, and property area.  
+   - **Techniques**: Preprocessing, **Decision Tree**, **Random Forest**, **AdaBoost**, **Gradient Boosting**, **XGBoost**.  
+   - **Evaluation**: Accuracy, precision, recall, F1-score (~78% with ensembles).
+
 
 *(More case studies will be added over time.)*
 

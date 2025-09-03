@@ -27,6 +27,12 @@ Each case study is self-contained with a notebook covering data exploration, pre
    - **Goal**: Predict loan approval based on applicant attributes such as income, loan amount, credit history, and property area.  
    - **Techniques**: Preprocessing, **Decision Tree**, **Random Forest**, **AdaBoost**, **Gradient Boosting**, **XGBoost**.  
    - **Evaluation**: Accuracy, precision, recall, F1-score (~78% with ensembles).
+   
+6. **[Heart Failure Prediction](06_heart_failure_prediction/)**  
+   - **Goal**: Predict the likelihood of heart disease in patients based on clinical and demographic features.  
+   - **Techniques**: EDA, categorical encoding, preprocessing, and training multiple classifiers including **Logistic Regression, Random Forest, Gradient Boosting, XGBoost, SVM, Naive Bayes, KNN**.  
+   - **Evaluation**: Cross-validation accuracy, test accuracy, F1-score (~90% with ensembles, Random Forest performed best).  
+
 
 
 *(More case studies will be added over time.)*

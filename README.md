@@ -31,7 +31,12 @@ Each case study is self-contained with a notebook covering data exploration, pre
 6. **[Heart Failure Prediction](06_heart_failure_prediction/)**  
    - **Goal**: Predict the likelihood of heart disease in patients based on clinical and demographic features.  
    - **Techniques**: EDA, categorical encoding, preprocessing, and training multiple classifiers including **Logistic Regression, Random Forest, Gradient Boosting, XGBoost, SVM, Naive Bayes, KNN**.  
-   - **Evaluation**: Cross-validation accuracy, test accuracy, F1-score (~90% with ensembles, Random Forest performed best).  
+   - **Evaluation**: Cross-validation accuracy, test accuracy, F1-score (~90% with ensembles, Random Forest performed best).
+   
+7. **[Customer Segmentation with Clustering](07_customer_segmentation_clustering/)**  
+   - **Goal**: Segment customers into meaningful groups based on income and lifestyle attributes for better business targeting.  
+   - **Techniques**: Exploratory Data Analysis (EDA), **KMeans** and **Agglomerative Hierarchical Clustering**, cluster evaluation via **Silhouette Score** and **Davies-Bouldin Score**, and cluster profiling for interpretation.  
+
 
 
 

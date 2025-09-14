@@ -37,7 +37,9 @@ Each case study is self-contained with a notebook covering data exploration, pre
    - **Goal**: Segment customers into meaningful groups based on income and lifestyle attributes for better business targeting.  
    - **Techniques**: Exploratory Data Analysis (EDA), **KMeans** and **Agglomerative Hierarchical Clustering**, cluster evaluation via **Silhouette Score** and **Davies-Bouldin Score**, and cluster profiling for interpretation.  
 
-
+8. **[Customer Characterization with Clustering](08_customer_characterization_clustering/)**  
+   - **Goal**: Characterize customers into distinct groups based on demographics, income, expenses, purchases, and campaign responses to support personalized marketing strategies.  
+   - **Techniques**: Data preprocessing, feature engineering, outlier handling, clustering with **KMeans, DBSCAN, and Hierarchical Clustering**, evaluation via **Silhouette Score**, visualization with **t-SNE**, and validation using **PERMANOVA**.
 
 
 *(More case studies will be added over time.)*
